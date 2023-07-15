@@ -3,6 +3,23 @@
 As you can see here, I have built several NFT/Blockchain projects including minting, staking, evolution/breeding features, raffle/auction houses, Launchpad, Marketplace, and P2E games(dice, crash, jackpot, coinflip, etc). All of repos are under private status.
 
 
+<h3><u><strong><i>TombStoned Lootbox</i></strong></u> &nbsp;(Solana)</h3>
+<hr />
+
+This is a Lootbox game for `TombStoned`.
+There are 4 coffins in the game. 2 for SOL, 1 for $JOINTS. And the last coffins is a free one that `TombStone HighSociety` holders can open once in a day.
+
+<img align="right" width="300px" src="https://github.com/microgift/web3-projects-overview/assets/127183857/38edc2ad-1cac-412a-b555-af16a3719d99">
+
+I built backend & smart contract as well as supported web3 integration to front-end.
+
+- Live: <a href="https://coffins.tombstoned.app/">Coffins - LootBox | TombStoned</a>
+- Github repos: 
+  - backend repo: <a href="https://github.com/microgift/tombstoned-lootbox-backend">SoblinsStaking-contract</a>
+  - contract program repo: <a href="https://github.com/microgift/tombstoned-lootbox-program">SoblinsStaking-frontend</a>
+
+
+
 <h3><u><strong><i>Soblin staking</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
 
