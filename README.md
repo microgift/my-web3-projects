@@ -28,7 +28,7 @@ This is a non-custodial staking for `Soblins` - a bluechip NFT collection on Sol
 
 I wrote smart contract and supported web3 integration to front-end.
 
-- Live: <a href="https://soblins-staking.vercel.app">Soblins staking</a>
+- Live: <a href="https://staking.soblins.io">Soblins staking</a>
 - Github repos: 
   - smart contract repo: <a href="https://github.com/microgift/SoblinsStaking-SC">SoblinsStaking-contract</a>
   - frontend repo: <a href="https://github.com/microgift/SoblinsStaking-FE">SoblinsStaking-frontend</a>
