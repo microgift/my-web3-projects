@@ -2,16 +2,19 @@
 
 As you can see here, I have built several NFT/Blockchain projects including minting, staking, evolution/breeding features, raffle/auction houses, Launchpad, Marketplace, and P2E games(dice, crash, jackpot, coinflip, etc). All of repos are under private status.
 
-<h3><u><strong><i>TombStoned Lootbox</i></strong></u> &nbsp;(Solana)</h3>
+<h3><u><strong><i>The Hoopas - Reveal your NFT</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
-
-The Hoopas - Reveal your NFT
 
 <img align="right" width="300px" src="https://github.com/microgift/web3-projects-overview/assets/127183857/ac4fefd7-0ee5-445d-aec2-8856487d0ac0">
 
 Successfully audited backend.
 
 - Live: <a href="https://dev.d3c0jk89ozv3l5.amplifyapp.com">The Hoopas</a>
+
+<br/>
+<br/>
+<br/>
+<br/>
 
 <h3><u><strong><i>TombStoned Lootbox</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
