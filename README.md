@@ -28,8 +28,8 @@ I built backend & smart contract as well as supported web3 integration to front-
 
 - Live: <a href="https://coffins.tombstoned.app/">Coffins - LootBox | TombStoned</a>
 - Github repos: 
-  - backend repo: <a href="https://github.com/microgift/tombstoned-lootbox-backend">SoblinsStaking-contract</a>
-  - contract program repo: <a href="https://github.com/microgift/tombstoned-lootbox-program">SoblinsStaking-frontend</a>
+  - backend repo: <a href="https://github.com/microgift/tombstoned-lootbox-backend">Tombstoned-lootbox-backend</a>
+  - contract program repo: <a href="https://github.com/microgift/tombstoned-lootbox-program">Tombstoned-lootbox-program</a>
 
 
 
