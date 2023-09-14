@@ -2,14 +2,30 @@
 
 As you can see here, I have built several NFT/Blockchain projects including minting, staking, evolution/breeding features, raffle/auction houses, Launchpad, Marketplace, and P2E games(dice, crash, jackpot, coinflip, etc). All of repos are under private status.
 
-<h3><u><strong><i>The Hoopas - Reveal your NFT</i></strong></u> &nbsp;(Solana)</h3>
+<h3><u><strong><i>Sprite Box</i></strong></u> &nbsp;(Solana)</h3>
+<hr />
+
+<img align="right" width="300px" src="https://github.com/microgift/web3-projects-overview/assets/127183857/6c25a679-bdfb-4cec-aeff-4ee85c803214">
+
+Gift for pixel artists.
+Spritebox is a minting platform that pixel artists can send there arts every week and users can mint the winners among them.
+
+- Live: <a href="https://spritebox.art">Spritebox</a>
+- Live backend: <a href="https://api.spritebox.art">Spritebox backend</a>
+- Frontend repo: <a href="https://github.com/microgift/spritebox">Spritebox-frontend</a>
+- Backend repo: <a href="https://github.com/microgift/sprite-box-backend">Spritebox-brontend</a>
+<h3><u><strong><i>The Hoopas</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
 
 <img align="right" width="300px" src="https://github.com/microgift/web3-projects-overview/assets/127183857/ac4fefd7-0ee5-445d-aec2-8856487d0ac0">
 
 Successfully audited backend.
+Built a site for locking Hoopas and Banana collection for 1 month, 3 months or 6 months.
 
 - Live: <a href="https://dev.d3c0jk89ozv3l5.amplifyapp.com">The Hoopas</a>
+- Staking: <a href="https://lock.3pixl.com">The Hoopas Locking</a>
+- Contract program repo: <a href="https://github.com/microgift/hoopas-staking">Hoopas-lock-contract</a>
+- Frontend repo: <a href="https://github.com/microgift/hoopas">Hoopas-lock-frontend</a>
 
 <br/>
 <br/>
