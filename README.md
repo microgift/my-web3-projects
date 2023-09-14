@@ -29,8 +29,6 @@ Built a site for locking Hoopas and Banana collection for 1 month, 3 months or 6
 
 <br/>
 <br/>
-<br/>
-<br/>
 
 <h3><u><strong><i>TombStoned Lootbox</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
