@@ -8,7 +8,7 @@ As you can see here, I have built several NFT/Blockchain projects including mint
 <img align="right" width="300px" src="https://github.com/microgift/web3-projects-overview/assets/127183857/6c25a679-bdfb-4cec-aeff-4ee85c803214">
 
 Gift for pixel artists.
-Spritebox is a minting platform that pixel artists can send there arts every week and users can mint the winners among them.
+Spritebox is a minting platform that pixel artists can send there arts every week and users can mint the seleted great arts among them.
 
 - Live: <a href="https://spritebox.art">Spritebox</a>
 - Live backend: <a href="https://api.spritebox.art">Spritebox backend</a>
