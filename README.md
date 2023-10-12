@@ -17,7 +17,7 @@ Spritebox is a minting platform that pixel artists can send there arts every wee
 <h3><u><strong><i>The Hoopas</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
 
-<img align="right" width="300px" src="https://github.com/microgift/web3-projects-overview/">
+<img align="right" width="300px" src="https://github.com/microgift/web3-projects-overview/assets/127183857/ac4fefd7-0ee5-445d-aec2-8856487d0ac0">
 
 Successfully audited backend.
 Built a site for locking Hoopas and Banana collection for 1 month, 3 months or 6 months.
