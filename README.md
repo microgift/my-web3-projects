@@ -125,16 +125,18 @@ Degen Taxi proves that the odds are as advertised (5% house edge) and that the r
 
 
 
-<h3><u><strong><i>Deezkits CoinFlip</i></strong></u> &nbsp;(Solana)</h3>
+<h3><u><strong><i>CoinFlip</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
 
-<img align="right" width="300px" src="https://user-images.githubusercontent.com/89365150/216958316-c79a05c7-fcf4-4cd6-acb6-2f086e90a6da.png">
+<img align="right" width="300px" src="https://github.com/microgift/web3-developer-solana-evm-etc/assets/127183857/d0542922-0cd3-4ffb-acf1-70d5112aaa1a">
 
-This is coin-flip game on solana network. Payment is Sol and users can put their amount in this game. If he is winner, he can get twice of given amount, if not, he will lose his amount. This project includes smart contract, back-end, and front-end integration.
+This is coin-flip game on solana network. Payment is Sol and users can put their amount in this game. If he is winner, he can get twice of given amount, if not, he will lose his amount.
+<div>Handled all project development.</div>
+<div>Hosted to plesk</div>
 
-- Demo: <a href="https://deezkits-coinflip.vercel.app">Deezkits CoinFlip</a>
-- Live: <a href="https://coinflip.deezkits.com">Deezkits CoinFlip</a>
-- Github repo: <a href="https://github.com/microgift/coin-flip-solkitty">coin-flip-solkitty</a>
+- Live: <a href="https://flip.baby">ATOZ CoinFlip</a>
+- Frontend repo: <a href="https://github.com/microgift/atoz-coinflip-frontend">coinflip-frontend</a>
+- Smartcontract repo: <a href="https://github.com/microgift/atoz-coinflip-contract">coinflip-smartcontract</a>
 
 
 
