@@ -8,9 +8,8 @@ As you can see here, I have built several web3 projects on vairous networks.
 <hr />
 
 <img align="right" width="300px" src="https://github.com/microgift/web3-developer-solana-evm-etc/assets/127183857/9bec93a5-b753-4bdf-8bf4-4c6c15ce87b9">
-
-<div>Audited project.</div>
-<div>Found & fix vulnerabilities in the backend.</div>
+<div>Reavers is more than just an idle game at the core. Reavers was engineered with an overarching theme that is as simple as it gets.</div>
+<div>Audited, found & fix vulnerabilities in whole project wide.</div>
 <div>Optimized database calls.</div>
 
 - Live: <a href="https://reavers.xyz">Reavers</a>
@@ -18,7 +17,7 @@ As you can see here, I have built several web3 projects on vairous networks.
 - Backend repo: <a href="https://github.com/microgift/reavers-cloud-functions">Reavers-backend</a>
 
 
-<h3><u><strong><i>Goalpost</i></strong></u> &nbsp;(Solana)</h3>
+<h3><u><strong><i>Bulls vs Bears</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
 
 <img align="right" width="300px" src="https://github.com/microgift/web3-developer-solana-evm-etc/assets/127183857/96d60691-c32c-4633-a7c3-fbb08bda1df9">
