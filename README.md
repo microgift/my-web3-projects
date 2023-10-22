@@ -2,6 +2,33 @@
 
 As you can see here, I have built several NFT/Blockchain projects including minting, staking, evolution/breeding features, raffle/auction houses, Launchpad, Marketplace, and P2E games(dice, crash, jackpot, coinflip, etc). All of repos are under private status.
 
+<h3><u><strong><i>Reavers</i></strong></u> &nbsp;(Solana)</h3>
+<hr />
+
+<img align="right" width="300px" src="https://github.com/microgift/web3-developer-solana-evm-etc/assets/127183857/9bec93a5-b753-4bdf-8bf4-4c6c15ce87b9">
+
+<div>Audited project.</div>
+<div>Found & fix vulnerabilities in the backend.</div>
+<div>Optimized database calls.</div>
+
+- Live: <a href="https://reavers.xyz">Reavers</a>
+- Frontend repo: <a href="https://github.com/microgift/Reavers">Reavers-frontend</a>
+- Backend repo: <a href="https://github.com/microgift/reavers-cloud-functions">Reavers-backend</a>
+
+
+<h3><u><strong><i>Goalpost</i></strong></u> &nbsp;(Solana)</h3>
+<hr />
+
+<img align="right" width="300px" src="https://github.com/microgift/web3-developer-solana-evm-etc/assets/127183857/96d60691-c32c-4633-a7c3-fbb08bda1df9">
+
+<div>Lead poker platform development.</div>
+
+- Live: <a href="https://goalpost.gg">BvB Goalpost</a>
+- Frontend repo: <a href="https://github.com/microgift/goal-post-frontend">Goalpost-frontend</a>
+- Backend repo: <a href="https://github.com/microgift/goal-post-backend">Goalpost-backend</a>
+- Socket repo: <a href="https://github.com/microgift/goal-post-socket">Goalpost-socket</a>
+- Contract repo: <a href="https://github.com/microgift/goal-post-contract">Goalpost-contract</a>
+
 <h3><u><strong><i>Sprite Box</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
 
@@ -14,6 +41,8 @@ Spritebox is a minting platform that pixel artists can send there arts every wee
 - Live backend: <a href="https://api.spritebox.art">Spritebox backend</a>
 - Frontend repo: <a href="https://github.com/microgift/spritebox">Spritebox-frontend</a>
 - Backend repo: <a href="https://github.com/microgift/sprite-box-backend">Spritebox-brontend</a>
+
+
 <h3><u><strong><i>The Hoopas</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
 
