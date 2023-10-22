@@ -1,6 +1,6 @@
 # <i>Web3 projects overview</i>
 
-Here's my past web3 projects
+Here are my past web3 projects
 As you can see here, I have built several web3 projects on vairous networks.
 <div>All repos are under private status.</div>
 
