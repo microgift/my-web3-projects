@@ -1,6 +1,8 @@
-# <i>My past web3 projects</i>
+# <i>Web3 projects overview</i>
 
-As you can see here, I have built several NFT/Blockchain projects including minting, staking, evolution/breeding features, raffle/auction houses, Launchpad, Marketplace, and P2E games(dice, crash, jackpot, coinflip, etc). All of repos are under private status.
+Here's my past web3 projects
+As you can see here, I have built several web3 projects on vairous networks.
+<div>All repos are under private status.</div>
 
 <h3><u><strong><i>Reavers</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
