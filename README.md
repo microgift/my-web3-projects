@@ -4,13 +4,27 @@ Here are my past web3 projects
 As you can see here, I have built several web3 projects on vairous networks.
 <div>All repos are under private status.</div>
 
+<h3><u><strong><i>Pioneer Legends</i></strong></u> &nbsp;(Solana)</h3>
+<hr />
+
+<img align="right" width="300px" src="https://github.com/microgift/web3-developer-solana-evm-etc/assets/127183857/e97e2418-d009-48a0-a7ee-b52731ab3fa3">
+<div>This is the first idle game on SOL or any chain backed by three revenue sources, which include IRL crypto mining, Defi, and Taxes, with rev share to all NFT holders.</div>
+<div>- Built smart contracts for staking, nft lending platform.</div>
+<div>- Built backend for staking.</div>
+<div>- Built admin page and fixed frontend issues as well.</div>
+
+- Live: <a href="https://reavers.xyz">Reavers</a>
+- Frontend repo: <a href="https://github.com/microgift/Reavers">Reavers-frontend</a>
+- Backend repo: <a href="https://github.com/microgift/reavers-cloud-functions">Reavers-backend</a>
+
+
 <h3><u><strong><i>Reavers</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
 
 <img align="right" width="300px" src="https://github.com/microgift/web3-developer-solana-evm-etc/assets/127183857/9bec93a5-b753-4bdf-8bf4-4c6c15ce87b9">
 <div>Reavers is more than just an idle game at the core. Reavers was engineered with an overarching theme that is as simple as it gets.</div>
-<div>Audited, found & fix vulnerabilities in whole project wide.</div>
-<div>Optimized database calls.</div>
+<div>- Audited, found & fix vulnerabilities in whole project wide.</div>
+<div>- Optimized database calls.</div>
 
 - Live: <a href="https://reavers.xyz">Reavers</a>
 - Frontend repo: <a href="https://github.com/microgift/Reavers">Reavers-frontend</a>
