@@ -1,7 +1,7 @@
 # <i>Web3 projects overview</i>
 
 Here are my past web3 projects
-As you can see here, I have built several web3 projects on vairous networks.
+As you can see here, I have participated in several web3 projects on vairous networks like minting, staking, evolution/breeding, raffle/auction, marketplace, launchpad, nft lend/borrow platforms.
 <div>All repos are under private status.</div>
 
 <h3><u><strong><i>Pioneer Legends</i></strong></u> &nbsp;(Solana)</h3>
