@@ -13,9 +13,11 @@ As you can see here, I have participated in several web3 projects on vairous net
 <div>- Built backend for staking.</div>
 <div>- Built admin page and fixed frontend issues as well.</div>
 
-- Live: <a href="https://reavers.xyz">Reavers</a>
-- Frontend repo: <a href="https://github.com/microgift/Reavers">Reavers-frontend</a>
-- Backend repo: <a href="https://github.com/microgift/reavers-cloud-functions">Reavers-backend</a>
+- Live: <a href="https://pioneerlegends.com">Pioneer Legends</a>
+- Frontend repo: <a href="https://github.com/pioneerlegends/pioneer-legends-frontend">Pioneer-legends-frontend</a>
+- Backend repo: <a href="https://github.com/pioneerlegends/pioneer-legends-backend">Pioneer-legends-backend</a>
+- Whitepaper repo: <a href="https://github.com/pioneerlegends/pioneer-legends-whitepaper">Pioneer-legends-whitepaper</a>
+- Smart contract repo: <a href="https://github.com/microgift/pioneerlegends-bank-sc">Pioneer-legends-bank-sc</a>
 
 
 <h3><u><strong><i>Reavers</i></strong></u> &nbsp;(Solana)</h3>
