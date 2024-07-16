@@ -20,7 +20,7 @@ As you can see here, I have participated in several web3 projects on vairous net
 <h3><u><strong><i>Delta neutral strategy(on progress)</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
 
-<img align="right" width="300px" src="https://github.com/user-attachments/assets/c7d1da2d-a09f-4e25-a957-befc0ed05ff3">
+<img align="right" width="300px" src="https://github.com/user-attachments/assets/652290c3-5d77-4cb0-880e-2815729eebe3">
 <div>Delta neutral strategy project using JLP and drift.</div>
 <div>- Built smart contract for testing jupiter cpi, meteora cpi, drift cpi.</div>
 <div>- Built frontend/backend to check the result of delta neutral strategy.</div>
