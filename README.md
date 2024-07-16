@@ -2,7 +2,8 @@
 
 Here are my past web3 projects
 As you can see here, I have participated in several DeFi, NFT projects on vairous networks like minting, staking, evolution/breeding, raffle/auction, marketplace, launchpad, nft lend/borrow platforms.
-<div>All repos are under private status.</div>
+<div>Most of the repos are under private status since I've signed NDA with my clients.</div>
+<div>You can send DM to check POW.</div>
 
 <h3><u><strong><i>Forking pump.fun</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
