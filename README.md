@@ -8,12 +8,12 @@ As you can see here, I have participated in several DeFi, NFT projects on vairou
 <h3><u><strong><i>Forking pump.fun</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
 
-<img align="right" width="300px" src="https://github.com/user-attachments/assets/c7d1da2d-a09f-4e25-a957-befc0ed05ff3">
+<img align="right" width="300px" src="https://github.com/user-attachments/assets/cb9b1177-2311-45b8-89cb-3b0450eccbf1">
 <div>Another pumpdotfun(https://pump.fun) built by me. 😊</div>
 <div>- Built frontend/backend for spl token create, market create.</div>
 <div>- Built smart contract for bonding curve, make pool on raydium.</div>
 
-- Live: <a href="https://pump.m8s.tech">Forked pump.fun</a>
+- Live: <a href="https://pump.m8s.tech">pump.m8s.tech</a>
 - Frontend repo: <a href="https://github.com/microgift/pump-frontend">pumpdotfun-frontend</a>
 - Backend repo: <a href="https://github.com/microgift/pump-backend">pumpdotfun-backend</a>
 - Smart contract repo: <a href="https://github.com/microgift/pump-smartcontract">pumpdotfun-smart-contract</a>
