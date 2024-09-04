@@ -5,7 +5,7 @@ As you can see here, I have participated in several DeFi, NFT projects on vairou
 <div><i>Most of the repos are under private status since I've signed NDA with my clients.</i></div>
 <div><i>You can send DM to check POW.</i></div>
 
-<h3><u><strong><i>Forking pump.fun</i></strong></u> &nbsp;(Solana)</h3>
+<h3><u><strong><i>Forking pump.fun</i></strong></u> &nbsp;(Solana, EVM)</h3>
 <hr />
 
 <img align="right" width="300px" src="https://github.com/user-attachments/assets/cb9b1177-2311-45b8-89cb-3b0450eccbf1">
@@ -13,6 +13,7 @@ As you can see here, I have participated in several DeFi, NFT projects on vairou
 <div>- Built frontend/backend for spl token create, market create.</div>
 <div>- Built smart contract for bonding curve, make pool on raydium.</div>
 
+- Live: <a href="https://fairlaunch.kommunitas.net/">app.ape.lol</a>
 - Live: <a href="https://fairlaunch.kommunitas.net/">fairlaunch.kommunitas.net</a>
 - Frontend repo: <a href="https://github.com/m8s-lab/pump-fun-frontend">pumpdotfun-frontend</a>
 - Backend repo: <a href="https://github.com/m8s-lab/pump-fun-backend">pumpdotfun-backend</a>
