@@ -13,7 +13,7 @@ As you can see here, I have participated in several DeFi, NFT projects on vairou
 <div>- Built frontend/backend for spl token create, market create.</div>
 <div>- Built smart contract for bonding curve, make pool on raydium.</div>
 
-- Live: <a href="https://fairlaunch.kommunitas.net/">app.ape.lol</a>
+- Live: <a href="https://app.ape.lol/">app.ape.lol</a>
 - Live: <a href="https://fairlaunch.kommunitas.net/">fairlaunch.kommunitas.net</a>
 - Frontend repo: <a href="https://github.com/m8s-lab/pump-fun-frontend">pumpdotfun-frontend</a>
 - Backend repo: <a href="https://github.com/m8s-lab/pump-fun-backend">pumpdotfun-backend</a>
