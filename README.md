@@ -1,4 +1,4 @@
-# <i>Web3 projects overview</i>
+# <i>Web3 projects overview (Bitcoin, EVM, Solana, TON ...)</i>
 
 Here are my past web3 projects
 As you can see here, I have participated in several DeFi, NFT projects on vairous networks like minting, staking, evolution/breeding, raffle/auction, marketplace, launchpad, nft lend/borrow platforms.
