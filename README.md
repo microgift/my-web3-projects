@@ -8,7 +8,8 @@ As you can see here, I have participated in several DeFi, NFT projects on vairou
 <h3><u><strong><i>Forking pump.fun</i></strong></u> &nbsp;(Solana, EVM)</h3>
 <hr />
 
-<img align="right" width="300px" src="https://github.com/user-attachments/assets/cb9b1177-2311-45b8-89cb-3b0450eccbf1">
+<img align="right" width="300px" src="![ape lol](https://github.com/user-attachments/assets/e09563e7-0451-4f7e-a7ff-6ad82f285cbf)
+">
 <div>Another pumpdotfun(https://pump.fun) built by me. 😊</div>
 <div>- Built frontend/backend for spl token create, market create.</div>
 <div>- Built smart contract for bonding curve, make pool on raydium.</div>
