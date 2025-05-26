@@ -5,6 +5,16 @@ As you can see here, I have participated in several DeFi, NFT projects on vairou
 <div><i>Most of the repos are under private status since I've signed NDA with my clients.</i></div>
 <div><i>You can send DM to check POW.</i></div>
 
+<h3><u><strong><i>Trading Bots</i></strong></u> &nbsp;(Solana)</h3>
+<hr />
+
+<img align="right" width="300px" src="https://github.com/user-attachments/assets/2b3bf3bc-5ff6-4794-b87a-8785a6975ef6">
+<div>Several trading bots on Solana</div>
+- Bundler on raydium AMM/CPMM, pump.fun/pump swap, meteora DLMM/DBC
+- Token volume booster/maker
+- Snipers
+- Copytrading
+
 <h3><u><strong><i>Forking pump.fun</i></strong></u> &nbsp;(Solana, EVM)</h3>
 <hr />
 
@@ -14,7 +24,7 @@ As you can see here, I have participated in several DeFi, NFT projects on vairou
 <div>- Built smart contract for bonding curve, make pool on raydium.</div>
 
 - Live: <a href="https://app.ape.lol/">app.ape.lol</a>
-- Live: <a href="https://fairlaunch.kommunitas.net/">fairlaunch.kommunitas.net</a>
+- Live: <a href="https://agents.land/">agents.land</a>
 - Frontend repo: <a href="https://github.com/m8s-lab/pump-fun-frontend">pumpdotfun-frontend</a>
 - Backend repo: <a href="https://github.com/m8s-lab/pump-fun-backend">pumpdotfun-backend</a>
 - Smart contract repo: <a href="https://github.com/m8s-lab/pump-fun-smart-contract">pumpdotfun-smart-contract</a>
