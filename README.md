@@ -10,7 +10,7 @@ As you can see here, I have participated in several DeFi, NFT projects on vairou
 
 <img align="right" width="300px" src="https://github.com/user-attachments/assets/2b3bf3bc-5ff6-4794-b87a-8785a6975ef6">
 <div>Several trading bots on Solana</div>
-<div>- Bundler on raydium AMM/CPMM, pump.fun/pump swap, meteora DLMM/DBC</div>
+<div><a href="https://github.com/m8s-lab/pump-fun-bundler">- Bundler on raydium AMM/CPMM, pump.fun/pump swap, meteora DLMM/DBC</a></div>
 <div>- Token volume booster/maker</div>
 <div>- Snipers</div>
 <div>- Copytrading</div>
